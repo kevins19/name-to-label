@@ -1,5 +1,4 @@
 import pandas as pd
-# import arcgis
 
 PROJECT_NAME = "WKRD_AGC_Transects_Fieldnotes_Survey123Connect"
 
